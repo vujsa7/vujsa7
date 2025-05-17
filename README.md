@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Aleksa 👋</h1>
-<h3 align="center">A Passionate Fullstack Engineer from Serbia</h3>
+<h3 align="center">Fullstack Engineer from Serbia</h3>
 
-- 🔭 I’m currently working on my programming [youtube channel](https://www.youtube.com/channel/UCaeH3VvDRdsOmlKWgX1-Xaw)
+- 🔭 I’m currently on a mission to bring value by building AI software products. 
 
-- 🌱 Right now I'm learning **Svelte, NextJS, AWS**
+- 🌱 Right now I'm learning **Flutter and Dart**
 
-- 👨‍💻 Checkout my projects and portfolio at [aleksavujisic.com](https://aleksavujisic.com)
+- 👨‍💻 Checkout my portfolio at [aleksavujisic.com](https://aleksavujisic.com)
 
 <h3 align="center">Technologies I use:</h3>
 <p align="center">
